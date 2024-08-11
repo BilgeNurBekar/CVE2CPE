@@ -1,0 +1,14 @@
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-core==0.2.24
+numpy==1.26.4
+nvdlib==0.7.7
+pandas==2.2.2
+pydantic==2.8.2
+pydantic_core==2.20.1
+python-dotenv==1.0.1
+requests==2.32.3
+streamlit==1.37.0
+typing-inspect==0.9.0
+typing_extensions==4.12.2
+

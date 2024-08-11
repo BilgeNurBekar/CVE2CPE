@@ -1,0 +1,187 @@
+[
+    
+    {
+        "cve_id": "CVE-2017-10851",
+        "description": "Untrusted search path vulnerability in Installer for ContentsBridge Utility for Windows 7.4.0 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.",
+        "cpe_uris": [
+            "cpe:2.3:a:fujixerox:contentsbridge_utility:*:*:*:*:*:*:*:*",
+            "cpe:2.3:o:microsoft:windows:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10852",
+        "description": "Buffer overflow in Corega CG-WGR1200 firmware 2.20 and earlier allows an attacker to execute arbitrary code via unspecified vectors.",
+        "cpe_uris": [
+            "cpe:2.3:o:corega:cg-wgr_1200_firmware:*:*:*:*:*:*:*:*",
+            "cpe:2.3:h:corega:cg-wgr_1200:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10853",
+        "description": "Buffer overflow in Corega CG-WGR1200 firmware 2.20 and earlier allows an attacker to execute arbitrary commands via unspecified vectors.",
+        "cpe_uris": [
+            "cpe:2.3:o:corega:cg-wgr_1200_firmware:*:*:*:*:*:*:*:*",
+            "cpe:2.3:h:corega:cg-wgr_1200:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10854",
+        "description": "Corega CG-WGR1200 firmware 2.20 and earlier allows an attacker to bypass authentication and change the login password via unspecified vectors.",
+        "cpe_uris": [
+            "cpe:2.3:o:corega:cg-wgr_1200_firmware:*:*:*:*:*:*:*:*",
+            "cpe:2.3:h:corega:cg-wgr_1200:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10855",
+        "description": "Untrusted search path vulnerability in FENCE-Explorer for Windows V8.4.1 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.",
+        "cpe_uris": [
+            "cpe:2.3:a:fujitsu:fence-explorer:*:*:*:*:*:*:*:*",
+            "cpe:2.3:o:microsoft:windows_10:-:*:*:*:*:*:*:*",
+            "cpe:2.3:o:microsoft:windows_7:-:*:*:*:*:*:*:*",
+            "cpe:2.3:o:microsoft:windows_8.1:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10856",
+        "description": "SEIL/X 4.60 to 5.72, SEIL/B1 4.60 to 5.72, SEIL/x86 3.20 to 5.72, SEIL/BPV4 5.00 to 5.72 allows remote attackers to cause a temporary failure of the device's encrypted communications via a specially crafted packet.",
+        "cpe_uris": [
+            "cpe:2.3:o:seil:b1_firmware:4.60:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:b1_firmware:5.72:*:*:*:*:*:*:*",
+            "cpe:2.3:h:seil:b1:-:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:bpv_4_firmware:5.00:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:bpv_4_firmware:5.72:*:*:*:*:*:*:*",
+            "cpe:2.3:h:seil:bpv_4:-:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:x1_firmware:4.60:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:x1_firmware:5.72:*:*:*:*:*:*:*",
+            "cpe:2.3:h:seil:x1:-:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:x2_firmware:4.60:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:x2_firmware:5.72:*:*:*:*:*:*:*",
+            "cpe:2.3:h:seil:x2:-:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:x86_fuji_firmware:3.20:*:*:*:*:*:*:*",
+            "cpe:2.3:o:seil:x86_fuji_firmware:5.72:*:*:*:*:*:*:*",
+            "cpe:2.3:h:seil:x86_fuji:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10857",
+        "description": "Cybozu Office 10.0.0 to 10.6.1 allows authenticated attackers to bypass access restriction to perform arbitrary actions via \"Cabinet\" function.",
+        "cpe_uris": [
+            "cpe:2.3:a:cybozu:office:10.0.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.3.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.1.2:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.1.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.0.2:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.0.1:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.5.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.4.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.2.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.6.0:*:*:*:*:*:*:*",
+            "cpe:2.3:a:cybozu:office:10.6.1:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10858",
+        "description": "Untrusted search path vulnerability in \"i-filter 6.0 install program\" file version 1.0.8.1 and earlier allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.",
+        "cpe_uris": [
+            "cpe:2.3:a:daj:i-filter_installer:*:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10859",
+        "description": "Untrusted search path vulnerability in \"i-filter 6.0 installer\" timestamp of code signing is before 23 Aug 2017 (JST) allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.",
+        "cpe_uris": [
+            "cpe:2.3:a:daj:i-filter_installer:6.0:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-1086",
+        "description": "In FreeBSD before 11.1-STABLE, 11.1-RELEASE-p4, 11.0-RELEASE-p15, 10.4-STABLE, 10.4-RELEASE-p3, and 10.3-RELEASE-p24, not all information in the struct ptrace_lwpinfo is relevant for the state of any thread, and the kernel does not fill the irrelevant bytes or short strings. Since the structure filled by the kernel is allocated on the kernel stack and copied to userspace, a leak of information of the kernel stack of the thread is possible from the debugger. As a result, some bytes from the kernel stack of the thread using ptrace (PT_LWPINFO) call can be observed in userspace.",
+        "cpe_uris": [
+            "cpe:2.3:o:freebsd:freebsd:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10860",
+        "description": "Untrusted search path vulnerability in \"i-filter 6.0 installer\" timestamp of code signing is before 23 Aug 2017 (JST) allows an attacker to execute arbitrary code via a specially crafted executable file in an unspecified directory.",
+        "cpe_uris": [
+            "cpe:2.3:a:daj:i-filter_installer:6.0:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10861",
+        "description": "Directory traversal vulnerability in QND Advance/Standard allows an attacker to read arbitrary files via a specially crafted command.",
+        "cpe_uris": [
+            "cpe:2.3:a:qualitysoft:qnd_advance\\/standard:*:sp3:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10862",
+        "description": "jwt-scala 1.2.2 and earlier fails to verify token signatures correctly which may lead to an attacker being able to pass specially crafted JWT data as a correctly signed token.",
+        "cpe_uris": [
+            "cpe:2.3:a:really:jwt-scala:*:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10863",
+        "description": "Untrusted search path vulnerability in HIBUN Confidential File Decryption program prior to 10.50.0.5 allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory. Note this is a separate vulnerability from CVE-2017-10865.",
+        "cpe_uris": [
+            "cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10864",
+        "description": "Untrusted search path vulnerability in Installer of HIBUN Confidential File Viewer prior to 11.20.0001 allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory.",
+        "cpe_uris": [
+            "cpe:2.3:a:hitachi-solutions:confidential_file_viewer:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10865",
+        "description": "Untrusted search path vulnerability in HIBUN Confidential File Decryption program prior to 10.50.0.5 allows an attacker to gain privileges via a Trojan horse DLL in an unspecified directory. Note this is a separate vulnerability from CVE-2017-10863.",
+        "cpe_uris": [
+            "cpe:2.3:a:hitachi-solutions:confidential_file_decryption:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10868",
+        "description": "H2O version 2.2.2 and earlier allows remote attackers to cause a denial of service in the server via specially crafted HTTP/1 header.",
+        "cpe_uris": [
+            "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10869",
+        "description": "Buffer overflow in H2O version 2.2.2 and earlier allows remote attackers to cause a denial-of-service in the server via unspecified vectors.",
+        "cpe_uris": [
+            "cpe:2.3:a:dena:h2o:*:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-1087",
+        "description": "In FreeBSD 10.x before 10.4-STABLE, 10.4-RELEASE-p3, and 10.3-RELEASE-p24 named paths are globally scoped, meaning a process located in one jail can read and modify the content of POSIX shared memory objects created by a process in another jail or the host system. As a result, a malicious user that has access to a jailed system is able to abuse shared memory by injecting malicious content in the shared memory region. This memory region might be executed by applications trusting the shared memory, like Squid. This issue could lead to a Denial of Service or local privilege escalation.",
+        "cpe_uris": [
+            "cpe:2.3:o:freebsd:freebsd:-:*:*:*:*:*:*:*"
+        ]
+    },
+    {
+        "cve_id": "CVE-2017-10870",
+        "description": "Memory corruption vulnerability in Rakuraku Hagaki (Rakuraku Hagaki 2018, Rakuraku Hagaki 2017, Rakuraku Hagaki 2016) and Rakuraku Hagaki Select for Ichitaro (Ichitaro 2017, Ichitaro 2016, Ichitaro 2015, Ichitaro Pro3, Ichitaro Pro2, Ichitaro Pro, Ichitaro 2011, Ichitaro Government 8, Ichitaro Government 7, Ichitaro Government 6 and Ichitaro 2017 Trial version) allows attackers to execute arbitrary code with privileges of the application via specially crafted file.",
+        "cpe_uris": [
+            "cpe:2.3:a:justsystems:ichitaro_pro:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_government_6:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_government_7:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_government_8:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_pro_2011:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_pro_3:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_pro_2:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_2016:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_2017:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_2018:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:easy_postcard_2016:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:easy_postcard_2017:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:easy_postcard_2018:-:*:*:*:*:*:*:*",
+            "cpe:2.3:a:justsystems:ichitaro_2017_trial_version:-:*:*:*:*:*:*:*"
+        ]
+    }
+]

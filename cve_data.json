@@ -1,0 +1,62 @@
+[
+    {
+        "CVE_ID": "CVE-2024-33960",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following 'end' in '/admin/mod_reports/printreport.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33961",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following 'code' in '/admin/mod_reservation/controller.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33962",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following 'code' in '/admin/mod_reservation/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33963",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following 'id' in '/admin/mod_room/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33964",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'id' in '/admin/mod_users/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33965",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'view' in '/tubigangarden/admin/mod_accomodation/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33966",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'xtsearch' in '/admin/mod_reports/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33967",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'view' in 'Attendance' and 'YearLevel' in '/AttendanceMonitoring/report/attendance_print.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33968",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'Attendance' and 'YearLevel' in '/AttendanceMonitoring/report/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33969",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'id' in '/AttendanceMonitoring/department/index.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33970",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following  'studid' in '/candidate/controller.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33971",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following   'username' in '/login.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33972",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following    'events' in '/report/event_print.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33973",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following    'Attendance' and 'YearLevel' in '/report/attendance_print.php' parameter."
+    },
+    {
+        "CVE_ID": "CVE-2024-33974",
+        "Description": "SQL injection vulnerability in PayPal, Credit Card and Debit Card Payment affecting version 1.0. An attacker could exploit this vulnerability by sending a specially crafted query to the server and retrieve all the information stored in it through the following 'Users in '/report/printlogs.php' parameter."
+    }
+]

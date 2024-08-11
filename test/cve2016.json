@@ -1,0 +1,120 @@
+[
+    {
+        "cve_id": "CVE-2016-0002",
+        "description": "The Microsoft (1) VBScript 5.7 and 5.8 and (2) JScript 5.7 and 5.8 engines, as used in Internet Explorer 8 through 11 and other products, allow remote attackers to execute arbitrary code via a crafted web site, aka \"Scripting Engine Memory Corruption Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0003",
+        "description": "Microsoft Edge allows remote attackers to execute arbitrary code via unspecified vectors, aka \"Microsoft Edge Memory Corruption Vulnerability.\""
+  
+    },
+    {
+        "cve_id": "CVE-2016-0005",
+        "description": "Microsoft Internet Explorer 9 through 11 allows remote attackers to bypass the Same Origin Policy via unspecified vectors, aka \"Internet Explorer Elevation of Privilege Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0006",
+        "description": "The sandbox implementation in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT Gold and 8.1, and Windows 10 Gold and 1511 mishandles reparse points, which allows local users to gain privileges via a crafted application, aka \"Windows Mount Point Elevation of Privilege Vulnerability,\" a different vulnerability than CVE-2016-0007."
+
+    },
+    {
+        "cve_id": "CVE-2016-0007",
+        "description": "The sandbox implementation in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT Gold and 8.1, and Windows 10 Gold and 1511 mishandles reparse points, which allows local users to gain privileges via a crafted application, aka \"Windows Mount Point Elevation of Privilege Vulnerability,\" a different vulnerability than CVE-2016-0006."
+
+    },
+    {
+        "cve_id": "CVE-2016-0008",
+        "description": "The graphics device interface in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 allows remote attackers to bypass the ASLR protection mechanism via unspecified vectors, aka \"Windows GDI32.dll ASLR Bypass Vulnerability.\""
+    },
+    {
+        "cve_id": "CVE-2016-0009",
+        "description": "Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, and Windows 10 Gold and 1511 allow remote attackers to execute arbitrary code via unspecified vectors, aka \"Win32k Remote Code Execution Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0010",
+        "description": "Microsoft Office 2007 SP3, Office 2010 SP2, Office 2013 SP1, Office 2013 RT SP1, Office 2016, Excel for Mac 2011, PowerPoint for Mac 2011, Word for Mac 2011, Excel 2016 for Mac, PowerPoint 2016 for Mac, Word 2016 for Mac, and Word Viewer allow remote attackers to execute arbitrary code via a crafted Office document, aka \"Microsoft Office Memory Corruption Vulnerability.\""
+ 
+    },
+    {
+        "cve_id": "CVE-2016-0011",
+        "description": "Microsoft SharePoint Server 2013 SP1 and SharePoint Foundation 2013 SP1 allow remote authenticated users to bypass intended Access Control Policy restrictions and conduct cross-site scripting (XSS) attacks by modifying a webpart, aka \"Microsoft SharePoint Security Feature Bypass,\" a different vulnerability than CVE-2015-6117."
+ 
+    },
+    {
+        "cve_id": "CVE-2016-0012",
+        "description": "Microsoft Office 2007 SP3, Excel 2007 SP3, PowerPoint 2007 SP3, Visio 2007 SP3, Word 2007 SP3, Office 2010 SP2, Excel 2010 SP2, PowerPoint 2010 SP2, Visio 2010 SP2, Word 2010 SP2, Office 2013 SP1, Excel 2013 SP1, PowerPoint 2013 SP1, Visio 2013 SP1, Word 2013 SP1, Excel 2013 RT SP1, PowerPoint 2013 RT SP1, Word 2013 RT SP1, Office 2016, Excel 2016, PowerPoint 2016, Visio 2016, Word 2016, and Visual Basic 6.0 Runtime allow remote attackers to bypass the ASLR protection mechanism via unspecified vectors, aka \"Microsoft Office ASLR Bypass.\""
+    },
+    {
+        "cve_id": "CVE-2016-0014",
+        "description": "Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT Gold and 8.1, and Windows 10 Gold and 1511 mishandle DLL loading, which allows local users to gain privileges via a crafted application, aka \"DLL Loading Elevation of Privilege Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0015",
+        "description": "DirectShow in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows 10 Gold and 1511 allows remote attackers to execute arbitrary code via a crafted file, aka \"DirectShow Heap Corruption Remote Code Execution Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0016",
+        "description": "Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT Gold and 8.1, and Windows 10 Gold and 1511 mishandle DLL loading, which allows local users to gain privileges via a crafted application, aka \"DLL Loading Remote Code Execution Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0018",
+        "description": "Microsoft Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 R2, and Windows 10 Gold and 1511 mishandle DLL loading, which allows local users to gain privileges via a crafted application, aka \"DLL Loading Remote Code Execution Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0019",
+        "description": "The Remote Desktop Protocol (RDP) service implementation in Microsoft Windows 10 Gold and 1511 allows remote attackers to bypass intended access restrictions and establish sessions for blank-password accounts via a modified RDP client, aka \"Windows Remote Desktop Protocol Security Bypass Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0020",
+        "description": "Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, and Windows 7 SP1 mishandle DLL loading, which allows local users to gain privileges via a crafted application, aka \"MAPI DLL Loading Elevation of Privilege Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0021",
+        "description": "Microsoft InfoPath 2007 SP3, 2010 SP2, and 2013 SP1 allows remote attackers to execute arbitrary code via a crafted Office document, aka \"Microsoft Office Memory Corruption Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0022",
+        "description": "Microsoft Word 2007 SP3, Office 2010 SP2, Word 2010 SP2, Word 2013 SP1, Word 2013 RT SP1, Word 2016, Word for Mac 2011, Word 2016 for Mac, Office Compatibility Pack SP3, Word Viewer, Word Automation Services on SharePoint Server 2013 SP1, Office Web Apps Server 2013 SP1, and SharePoint Server 2013 SP1 allow remote attackers to execute arbitrary code via a crafted Office document, aka \"Microsoft Office Memory Corruption Vulnerability,\" a different vulnerability than CVE-2016-0052."
+
+    },
+    {
+        "cve_id": "CVE-2016-0024",
+        "description": "The Chakra JavaScript engine in Microsoft Edge allows remote attackers to execute arbitrary code via unspecified vectors, aka \"Scripting Engine Memory Corruption Vulnerability.\""
+  
+    },
+    {
+        "cve_id": "CVE-2016-0025",
+        "description": "Microsoft Word 2007 SP3, Office 2010 SP2, Word 2010 SP2, Word 2013 SP1, Word 2013 RT SP1, Office 2016, Word 2016, Word for Mac 2011, Word 2016 for Mac, Office Compatibility Pack SP3, Word Automation Services on SharePoint Server 2010 SP2, Word Automation Services on SharePoint Server 2013 SP1, Office Web Apps 2010 SP2, Office Web Apps Server 2013 SP1, and Office Online Server allow remote attackers to execute arbitrary code via a crafted Office document, aka \"Microsoft Office Memory Corruption Vulnerability.\""
+
+    },
+    {
+        "cve_id": "CVE-2016-0026",
+        "description": "The Common Log File System (CLFS) driver in Microsoft Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, Windows 10 Gold, 1511, and 1607, and Windows Server 2016 allows local users to gain privileges via a crafted application, aka \"Windows Common Log File System Driver Elevation of Privilege Vulnerability,\" a different vulnerability than CVE-2016-3332, CVE-2016-3333, CVE-2016-3334, CVE-2016-3335, CVE-2016-3338, CVE-2016-3340, CVE-2016-3342, CVE-2016-3343, and CVE-2016-7184."
+
+    },
+    {
+        "cve_id": "CVE-2016-0028",
+        "description": "Outlook Web Access (OWA) in Microsoft Exchange Server 2013 SP1, Cumulative Update 11, and Cumulative Update 12 and 2016 Gold and Cumulative Update 1 does not properly restrict loading of IMG elements, which makes it easier for remote attackers to track users via a crafted HTML e-mail message, aka \"Microsoft Exchange Information Disclosure Vulnerability.\""
+    },
+    {
+        "cve_id": "CVE-2016-0029",
+        "description": "Cross-site scripting (XSS) vulnerability in Outlook Web Access (OWA) in Microsoft Exchange Server 2016 allows remote attackers to inject arbitrary web script or HTML via a crafted URL, aka \"Exchange Spoofing Vulnerability,\" a different vulnerability than CVE-2016-0031."
+
+    },
+    {
+        "cve_id": "CVE-2016-0030",
+        "description": "Cross-site scripting (XSS) vulnerability in Outlook Web Access (OWA) in Microsoft Exchange Server 2013 PS1, 2013 Cumulative Update 10, and 2016 allows remote attackers to inject arbitrary web script or HTML via a crafted URL, aka \"Exchange Spoofing Vulnerability.\""
+
+    }
+
+]

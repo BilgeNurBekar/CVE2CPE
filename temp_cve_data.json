@@ -1,0 +1,70 @@
+[
+    {
+        "CVE_ID": "CVE-2024-42033",
+        "Description": "Access control vulnerability in the security verification module mpact: Successful exploitation of this vulnerability will affect integrity and confidentiality."
+    },
+    {
+        "CVE_ID": "CVE-2024-42034",
+        "Description": "LaunchAnywhere vulnerability in the account module. Impact: Successful exploitation of this vulnerability may affect service confidentiality."
+    },
+    {
+        "CVE_ID": "CVE-2024-42035",
+        "Description": "Permission control vulnerability in the App Multiplier module Impact:Successful exploitation of this vulnerability may affect functionality and confidentiality."
+    },
+    {
+        "CVE_ID": "CVE-2024-42036",
+        "Description": "Access permission verification vulnerability in the Notepad module Impact: Successful exploitation of this vulnerability may affect service confidentiality."
+    },
+    {
+        "CVE_ID": "CVE-2024-42037",
+        "Description": "Vulnerability of uncaught exceptions in the Graphics module Impact: Successful exploitation of this vulnerability may affect service confidentiality."
+    },
+    {
+        "CVE_ID": "CVE-2024-42038",
+        "Description": "Vulnerability of PIN enhancement failures in the screen lock module Impact: Successful exploitation of this vulnerability may affect service confidentiality, integrity, and availability."
+    },
+    {
+        "CVE_ID": "CVE-2024-4210",
+        "Description": "A Denial of Service (DoS) condition has been discovered in GitLab CE/EE affecting all versions starting with 12.6 before 17.0.6, 17.1 prior to 17.1.4, and 17.2 prior to 17.2.2. It is possible for an attacker to cause a denial of service using crafted adoc files."
+    },
+    {
+        "CVE_ID": "CVE-2024-4784",
+        "Description": "An issue was discovered in GitLab EE starting from version 16.7 before 17.0.6, version 17.1 before 17.1.4 and 17.2 before 17.2.2 that allowed bypassing the password re-entry requirement to approve a policy."
+    },
+    {
+        "CVE_ID": "CVE-2024-6329",
+        "Description": "An issue was discovered in GitLab CE/EE affecting all versions starting from 8.16 prior to 17.0.6, starting from 17.1 prior to 17.1.4, and starting from 17.2 prior to 17.2.2, which causes the web interface to fail to render the diff correctly when the path is encoded."
+    },
+    {
+        "CVE_ID": "CVE-2024-2800",
+        "Description": "ReDoS flaw in RefMatcher when matching branch names using wildcards in GitLab EE/CE affecting all versions from 11.3 prior to 17.0.6, 17.1 prior to 17.1.4, and 17.2 prior to 17.2.2 allows denial of service via Regex backtracking."
+    },
+    {
+        "CVE_ID": "CVE-2024-3035",
+        "Description": "A permission check vulnerability in GitLab CE/EE affecting all versions starting from 8.12 prior to 17.0.6, 17.1 prior to 17.1.4, and 17.2 prior to 17.2.2  allowed for LFS tokens to read and write to the user owned repositories."
+    },
+    {
+        "CVE_ID": "CVE-2024-3114",
+        "Description": "An issue was discovered in GitLab CE/EE affecting all versions starting from 11.10 prior to 17.0.6, 17.1 prior to 17.1.4, and 17.2 prior to 17.2.2, with the processing logic for parsing invalid commits can lead to a regular expression DoS attack on the server."
+    },
+    {
+        "CVE_ID": "CVE-2024-3958",
+        "Description": "An issue has been discovered in GitLab CE/EE affecting all versions before 17.0.6, 17.1 prior to 17.1.4, and 17.2 prior to 17.2.2. An issue was found that allows someone  to abuse a discrepancy between the Web application display and the git command line interface to social engineer victims into cloning non-trusted code."
+    },
+    {
+        "CVE_ID": "CVE-2024-4207",
+        "Description": "A cross-site scripting issue has been discovered in GitLab affecting all versions starting from 5.1 prior 17.0.6, starting from 17.1 prior to 17.1.4, and starting from 17.2 prior to 17.2.2. When viewing an XML file in a repository in raw mode, it can be made to render as HTML if viewed under specific circumstances."
+    },
+    {
+        "CVE_ID": "CVE-2024-5423",
+        "Description": "Multiple Denial of Service (DoS) conditions has been discovered in GitLab CE/EE affecting all versions starting from 1.0 prior to 17.0.6, starting from 17.1 prior to 17.1.4, and starting from 17.2 prior to 17.2.2 which allowed an attacker to cause resource exhaustion via banzai pipeline."
+    },
+    {
+        "CVE_ID": "CVE-2024-7554",
+        "Description": "An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.9 before 17.0.6, all versions starting from 17.1 before 17.1.4, all versions starting from 17.2 before 17.2.2. Under certain conditions, access tokens may have been logged when an API request was made in a specific manner."
+    },
+    {
+        "CVE_ID": "CVE-2024-7610",
+        "Description": "A Denial of Service (DoS) condition has been discovered in GitLab CE/EE affecting all versions starting with 15.9 before 17.0.6, 17.1 prior to 17.1.4, and 17.2 prior to 17.2.2. It is possible for an attacker to cause catastrophic backtracking while parsing results from Elasticsearch."
+    }
+]

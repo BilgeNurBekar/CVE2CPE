@@ -1,0 +1,13 @@
+[
+    {
+        "CVE_ID": "CVE-2024-36991",
+        "CVE_Description": "In Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10, an attacker could perform a path traversal on the /modules/messaging/ endpoint in Splunk Enterprise on Windows. This vulnerability should only affect Splunk Enterprise on Windows.",
+        "CPE": {
+            "cpe": [
+                "cpe:2.3:o:splunk:enterprise:9.0.10:*:*:*:*:*:*:*",
+                "cpe:2.3:o:splunk:enterprise:9.1.5:*:*:*:*:*:*:*",
+                "cpe:2.3:o:splunk:enterprise:9.2.2:*:*:*:*:*:*:*"
+            ]
+        }
+    }
+]
