@@ -12,6 +12,11 @@ The CVE to CPE Converter is a Python application developed to automatically gene
 - **Ollama Integration**: Utilizes Ollama for processing CVE and CPE data.
 - **Streamlit Application**: Provides a web-based interface.
 
+## Project Flow Chart
+
+![Project Flow Chart](./flow.png)
+
+
 ## Requirements
 
 The following requirements are necessary for the proper functioning of this project:
@@ -23,7 +28,7 @@ The following requirements are necessary for the proper functioning of this proj
 
 ### Language Model Usage
 
-- **Ollama**: Requires the Ollama language model for processing CVE and CPE data.
+- **Ollama**: Requires the Ollama language model for processing CVE and CPE data. Version: 0.3.0
 - **Llama3**: With 8B parameters.
 
 ### Installation
