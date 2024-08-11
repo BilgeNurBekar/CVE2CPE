@@ -2,7 +2,7 @@
 
 ## Description
 
-The CVE to CPE Converter is a Python application developed to automatically generate CPE (Common Platform Enumeration) records from CVE descriptions using a language model (LLM). This project is designed to facilitate the management of security vulnerabilities by easily and quickly converting CVE information into a standardized CPE format.
+The CVE to CPE Converter is a Python application developed to automatically generate CPE (Common Platform Enumeration) records from CVE descriptions using big language model (LLM). This project is designed to facilitate the management of security vulnerabilities by easily and quickly converting CVE information into a standardized CPE format.
 
 ## Features
 
